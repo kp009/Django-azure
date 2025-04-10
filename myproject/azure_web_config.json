@@ -1,0 +1,8 @@
+{
+    "env": {
+      "DJANGO_SECRET_KEY": "bo7kE70WPlN4DVkZ9HBd5dP2nO4dg0lE",
+      "DATABASE_URL": "your-database-url",
+      "DJANGO_SETTINGS_MODULE": "myproject.production_settings"
+    }
+  }
+  
